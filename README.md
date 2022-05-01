@@ -14,6 +14,7 @@
 ---
 
 ### :bookmark_tabs:  Blog Articles
+ * [Attach a WAF to API Gateway using the Serverless Framework](https://medium.com/@lindseytam/attach-a-waf-to-api-gateway-using-the-serverless-framework-15bd8a55b767)
  * [I Made my First NPM Package (And You Can Too!)](https://medium.com/@lindseytam/i-made-my-first-npm-package-and-you-can-too-314860067d05)
  * [Create an AWS Lambda function with the Serverless Framework](https://medium.com/@lindseytam/create-an-aws-lambda-function-with-the-serverless-framework-33371011ad5b)
  * [5 Tips to Become a Software Engineer without a CS Degree or Bootcamp](https://medium.com/@lindseytam/5-tips-to-become-a-software-engineer-without-a-cs-degree-or-bootcamp-33eb5c51e6f6)
