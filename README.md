@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lindsey!
+### Hi there, I'm Lindsey!
 * 👩🏻 I am a full stack Software Engineer with experiences in web development and AWS
 * :seedling: I like learning something new everyday
 * :mortar_board: I graduated in May 2020 with a math major
