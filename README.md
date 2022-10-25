@@ -1,8 +1,8 @@
 ### Hi there, I'm Lindsey!
-* 👩🏻 I am a full stack Software Engineer with experiences in web development and AWS
+* 👩🏻 I am a Software Engineer with 2+ years of experience
 * :seedling: I like learning something new everyday
-* :mortar_board: I graduated in May 2020 with a math major
-* :dog: Fun fact: I have two dogs
+* :mortar_board: I graduated Pomona College with a Math major
+* :dog: I have a dog named Happy
 
 ---
 
