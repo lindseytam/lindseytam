@@ -1,8 +1,7 @@
 ### Hi there, I'm Lindsey!
-* 👩🏻 I am a Software Engineer with 2+ years of experience
+* 👩🏻 I am a Software Engineer
 * :seedling: I like learning something new everyday
 * :mortar_board: I graduated Pomona College with a Math major
-* :dog: I have a dog named Happy
 
 ---
 
