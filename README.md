@@ -5,16 +5,8 @@
 
 ---
 
-### 🛠️ Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="CSS Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="JavaScript Logo" width="40" height="40"/> 
-
-
----
-
 ### :bookmark_tabs:  Blog Articles
  * [Attach a WAF to API Gateway using the Serverless Framework](https://medium.com/@lindseytam/attach-a-waf-to-api-gateway-using-the-serverless-framework-15bd8a55b767)
- * [I Made my First NPM Package (And You Can Too!)](https://medium.com/@lindseytam/i-made-my-first-npm-package-and-you-can-too-314860067d05)
  * [Create an AWS Lambda function with the Serverless Framework](https://medium.com/@lindseytam/create-an-aws-lambda-function-with-the-serverless-framework-33371011ad5b)
  * [5 Tips to Become a Software Engineer without a CS Degree or Bootcamp](https://medium.com/@lindseytam/5-tips-to-become-a-software-engineer-without-a-cs-degree-or-bootcamp-33eb5c51e6f6)
  * [Making a random generator for Super Smash Bros](https://medium.com/@lindseytam/making-a-random-generator-for-super-smash-bros-68e826f37ef4)
@@ -27,10 +19,6 @@
 <a href="https://linkedin.com/in/lindseytam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mydeveloperblogs.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
-
----
-
-[![Lindsey's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindseytam&theme=default)](https://github.com/anuraghazra/github-readme-stats&theme=default)
 
 
 
